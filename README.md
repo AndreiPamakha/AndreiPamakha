@@ -21,7 +21,7 @@ I'm a QA Engineer from Belarus. Currently located in Homel.🔍 As a person, I a
   <img src="https://luna1.co/eb0187.png" title="qase" alt="qase" width="40" height="40"/>&nbsp
 </div>
 
----
+
 
 ### 🌐 Web App Testing:
 
@@ -31,7 +31,7 @@ I'm a QA Engineer from Belarus. Currently located in Homel.🔍 As a person, I a
   <img src="https://static0.smartbear.co/smartbearbrand/media/images/home/soapui-icon.svg" title="soapui" alt="soapui" width="40" height="40"/>&nbsp
 </div>
 
----
+
 
 ### 📱 Mobile App Testing:
 
@@ -43,7 +43,7 @@ I'm a QA Engineer from Belarus. Currently located in Homel.🔍 As a person, I a
 </div>
 
 
----
+
 
 ### 💾 Database:
 
@@ -53,7 +53,7 @@ I'm a QA Engineer from Belarus. Currently located in Homel.🔍 As a person, I a
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp
 </div>
 
----
+
 
 ### ✏️ Working with code:
 
@@ -65,7 +65,14 @@ I'm a QA Engineer from Belarus. Currently located in Homel.🔍 As a person, I a
   
 </div>
 
----
+
+
+### 💻 Programming Languages
+
+  <div>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/640px-JavaScript-logo.png" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" title="C" alt="C" width="40" height="40"/>&nbsp
+  </div>
 
 <!-- ### 💻 Пройденные курсы:
 
