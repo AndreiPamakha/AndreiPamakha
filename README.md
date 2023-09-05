@@ -85,12 +85,3 @@ I'm a QA Engineer from Belarus. Currently located in Homel.🔍 As a person, I a
  - [Git Bash](https://github.com/AndreiPamakha/Bash)
 
   
-<!-- ### 💻 Пройденные курсы:
-
-| Курсы                                                           | Дата              |
-| ----------------------------------------------------------------| :---------------: |
-| netology.ru/Старт в программировании                            | 02/2022 - 03/2022 |
-
---- -->
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=testrusau)
