@@ -74,6 +74,17 @@ I'm a QA Engineer from Belarus. Currently located in Homel.🔍 As a person, I a
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" title="C" alt="C" width="40" height="40"/>&nbsp
   </div>
 
+### 📁 Testing Artefacts
+
+ - [Testing Theory](https://github.com/AndreiPamakha/Testing_Theory)
+ - [Test Documentation](https://github.com/AndreiPamakha/Test_Documentation)
+ - [Web App Testing](https://github.com/AndreiPamakha/WebAppTesting)
+ - [API Testing](https://github.com/AndreiPamakha/API_Testing)
+ - [Databases](https://github.com/AndreiPamakha/DataBases)
+ - [Mobile App Testing](https://github.com/AndreiPamakha/MobileAppTesting)
+ - [Git Bash](https://github.com/AndreiPamakha/Bash)
+
+  
 <!-- ### 💻 Пройденные курсы:
 
 | Курсы                                                           | Дата              |
