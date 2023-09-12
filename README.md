@@ -6,7 +6,7 @@
 
 I'm a QA Engineer from Belarus. Currently located in Homel.🔍 As a person, I am very purposeful, active in many areas.
 
-- 📫 How to contact me: [![LinkedIn Badge](https://img.shields.io/badge/-@AndreyPomakho-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/andreypomakho/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:whitespar2015@gmail.com)
+- 📫 How to contact me: [![LinkedIn Badge](https://img.shields.io/badge/-@AndreyPomakho-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/andreypomakho/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:andreypomakho@gmail.com)
 
 ---
 
