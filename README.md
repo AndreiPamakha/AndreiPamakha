@@ -8,7 +8,6 @@ I'm a QA Engineer from Belarus. Currently located in Homel.🔍 As a person, I a
 
 - 📫 How to contact me: [![LinkedIn Badge](https://img.shields.io/badge/-@AndreyPomakho-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/andreypomakho/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:andreypomakho@gmail.com)
 
-### [My CV](https://drive.google.com/file/d/1DjQilv3vDipegw4qlw2RKh4fHBi6cDp9/view?usp=sharing)
 ---
 
 # 🛠💻 Tools and Skills: 
@@ -75,7 +74,7 @@ I'm a QA Engineer from Belarus. Currently located in Homel.🔍 As a person, I a
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" title="C" alt="C" width="40" height="40"/>&nbsp
   </div>
 
-### 📁 Testing Artefacts
+### 📁 Testing Artefacts (During the course)
 
  - [Testing Theory](https://github.com/AndreiPamakha/Testing_Theory)
  - [Test Documentation](https://github.com/AndreiPamakha/Test_Documentation)
